@@ -6,7 +6,7 @@ import Footer from './components/footer/footer.jsx'
 function App() {
   const logo = 'Logo';
   const profileName = 'John Doe';
-  const profileAvatar = 'https://via.placeholder.com/50';
+  const profileAvatar = 'https://avatars.mds.yandex.net/i?id=e276dc7a81d365995d5e17bd1c81fdc9fcbe516d-12420874-images-thumbs&n=13';
 
   return (
     <div className="app">
